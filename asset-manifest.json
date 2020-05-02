@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.03cff1ed.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.ba22300f.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.ba22300f.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.51541cba.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.51541cba.js.map",
-    "static/js/2.ed6e4003.chunk.js": "/react-gh-pages/static/js/2.ed6e4003.chunk.js",
-    "static/js/2.ed6e4003.chunk.js.map": "/react-gh-pages/static/js/2.ed6e4003.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.2d8f68a67b3c6f3f158678f645c32438.js": "/react-gh-pages/precache-manifest.2d8f68a67b3c6f3f158678f645c32438.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.03cff1ed.chunk.css.map": "/react-gh-pages/static/css/main.03cff1ed.chunk.css.map",
-    "static/js/2.ed6e4003.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.ed6e4003.chunk.js.LICENSE.txt"
+    "main.css": "/React-search_images/static/css/main.03cff1ed.chunk.css",
+    "main.js": "/React-search_images/static/js/main.ba22300f.chunk.js",
+    "main.js.map": "/React-search_images/static/js/main.ba22300f.chunk.js.map",
+    "runtime-main.js": "/React-search_images/static/js/runtime-main.846071ae.js",
+    "runtime-main.js.map": "/React-search_images/static/js/runtime-main.846071ae.js.map",
+    "static/js/2.ed6e4003.chunk.js": "/React-search_images/static/js/2.ed6e4003.chunk.js",
+    "static/js/2.ed6e4003.chunk.js.map": "/React-search_images/static/js/2.ed6e4003.chunk.js.map",
+    "index.html": "/React-search_images/index.html",
+    "precache-manifest.807df5633ebae7b07f99f59646da2a73.js": "/React-search_images/precache-manifest.807df5633ebae7b07f99f59646da2a73.js",
+    "service-worker.js": "/React-search_images/service-worker.js",
+    "static/css/main.03cff1ed.chunk.css.map": "/React-search_images/static/css/main.03cff1ed.chunk.css.map",
+    "static/js/2.ed6e4003.chunk.js.LICENSE.txt": "/React-search_images/static/js/2.ed6e4003.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.51541cba.js",
+    "static/js/runtime-main.846071ae.js",
     "static/js/2.ed6e4003.chunk.js",
     "static/css/main.03cff1ed.chunk.css",
     "static/js/main.ba22300f.chunk.js"
