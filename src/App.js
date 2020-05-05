@@ -6,13 +6,17 @@ import ImageList from "./component/ImageList";
 import "./App.css";
 
 class App extends React.Component {
-  state = { images: [] };
+  state = { images: [], selectedImage: null };
+
+  componentDidMount() {
+    this.onSearchSubmit("dog");
+  }
 
   onSearchSubmit = async (term) => {
     const resolve = await unsplash.get("/search/photos", {
       params: { query: term },
     });
-
+    console.log(resolve);
     this.setState({
       images: resolve.data.results,
     });

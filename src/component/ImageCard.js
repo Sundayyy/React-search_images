@@ -1,7 +1,8 @@
 import React from "react";
 
-const ImageCard = (props) => {
-  const { description, urls } = props.image;
+const ImageCard = ({ image }) => {
+  console.log(image);
+  const { description, urls } = image;
   return (
     <div>
       <img alt={description} src={urls.regular} />
